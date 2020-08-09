@@ -54,8 +54,6 @@ public class CustomListeners implements ITestListener,ISuiteListener {
 		
 		}
 		
-		
-	
 
 	public void onTestSkipped(ITestResult result) {
 		

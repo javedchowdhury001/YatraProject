@@ -1,0 +1,4 @@
+INFO    2020-08-08 23:21:09,477 [main] com.YATRAProjectNCR.basetest  - Driver Initialized !!!
+INFO    2020-08-08 23:21:11,986 [main] com.YATRAProjectNCR.basetest  - Navigate to Yatra Page
+INFO    2020-08-08 23:21:12,067 [main] com.YATRAProjectNCR.basetest  - Inside the MyAccountLogin
+INFO    2020-08-08 23:21:17,404 [main] com.YATRAProjectNCR.basetest  - MyAccountLogin done Successfully
